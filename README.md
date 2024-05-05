@@ -16,7 +16,8 @@ layers, forward propagation).
 * `datahandler.cpp`: Defines data structures and functions for data loading (various formats) 
 and type inference.
 
-**Note:** This is a personal exploration project by Paul Ilami.
+**Note:** This is a personal exploration project by myself as I`m getting deeper into artificial intelligence
+and the development of it.
 
 **Further Exploration:**
 
