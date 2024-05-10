@@ -1,8 +1,8 @@
 # Project: Machine Learning Exploration
 
-This repository contains source code for a personal machine learning project 
+Hey, I will show you a personal machine learning project 
 with several components exploring data preprocessing, vectorization, data integrity, 
-and basic neural network training.
+and basic neural network training. 
 
 **Source Files:**
 
@@ -18,12 +18,3 @@ and type inference.
 
 **Note:** This is a personal exploration project by myself as I`m getting deeper into artificial intelligence
 and the development of it.
-
-**Further Exploration:**
-
-* Advanced data preprocessing (missing values, categorical encoding).
-* Diverse neural network architectures and learning algorithms.
-* Hyperparameter tuning for performance optimization.
-* Evaluation metrics (accuracy, loss) for training progress tracking.
-* Data augmentation techniques for training data enrichment.
-* Trained model saving and loading functionalities.
